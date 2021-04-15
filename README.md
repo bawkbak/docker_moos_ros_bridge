@@ -1,5 +1,5 @@
 ### docker build:
-$ docker build -t="debug:01" .
+$ docker build -t="bawkbak/docker-moosrosbridge:01" .
 
 ### How to run
 
