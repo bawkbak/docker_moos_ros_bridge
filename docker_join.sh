@@ -6,5 +6,5 @@ then
     docker exec -it $containerid bash
 else
     echo "create a new container"
-    docker run -itd debug:01
+    docker run -itd bawkbak/docker-moosrosbridge:01
 fi
